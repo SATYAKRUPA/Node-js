@@ -1,0 +1,25 @@
+{
+  "name": "namaste_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SATYAKRUPA/Node-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SATYAKRUPA/Node-js/issues"
+  },
+  "homepage": "https://github.com/SATYAKRUPA/Node-js#readme",
+  "dependencies": {
+    "mongodb": "^6.19.0"
+  }
+}
